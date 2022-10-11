@@ -65,10 +65,10 @@ async def init():
     except:
         pass
     await Herlock.decorators()
-    LOGGER("HerlockMusic").info("Herlock Müzik Botu Başarıyla Başlatıldı")
+    LOGGER("HerlockMusic").info("SWX Müzik Botu Başarıyla Başlatıldı")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("HerlockMusic").info("Herlock Music Bot'u Durdurmak! Güle güle")
+    LOGGER("SWXMusic").info("SWX Music Bot'u Durdurmak! Güle güle")
