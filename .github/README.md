@@ -31,7 +31,7 @@ Reach out to the maintainer at one of the following places:
 
 - [GitHub Issues](https://github.com/HerlockBots/herlockmusicbot)
 - Contact options listed on [this GitHub profile](https://github.com/SakirBey1)
-- [Telegram Support](https://t.me/HerlockProjects)
+- [Telegram Support](https://t.me/SWXChatt)
 
 If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
@@ -56,4 +56,4 @@ Reminder that you are great, you are enough, and your presence is valued. If you
 
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HerlockBots/HerlockMusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mert0120/HerlockMusicBot)
